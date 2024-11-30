@@ -1,5 +1,7 @@
 <header>
 
+<H1>Header</H1>
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,7 +9,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+<H1>Communicate using Markdown</H1> 
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
